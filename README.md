@@ -2,11 +2,11 @@
 JavaScript do básico ao avançado (c/ Node.js e projetos)
 
 
-##Plataforma:
+## Plataforma:
 Udemy
 
-##Professor
+## Professor
 Matheus Battisti
 
-##Objetivo
+## Objetivo
 Aumentar o conhecimento em javascript, buscando uma base sólida.
